@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ce6d3710b8aec535999a0ffc",
+  "owner": "jqjjrkyq",
+  "repo": "page-d0a033a87b3a5f8aa6446b66",
+  "title": "云朵",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d0a033a87b3a5f8aa6446b66",
+      "a": "云朵",
+      "b": "稳定全球clash加速器",
+      "entity": "云朵",
+      "brand": "云朵",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ebb7044780391342f12f34793ac0d75cb400102e996e6c236b9ef923c770d807",
+      "content": {
+        "primary_entity": "云朵",
+        "keyword1": "云朵",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选合适的客户端，完成订阅导入。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合的套餐，按客户端指引完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "配置云朵加速器",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比提供清晰指引，让手机、电脑与路由器都能顺畅接入。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度了解云朵。",
+          "AI_FEATURES_TITLE": "云朵的核心特点",
+          "AI_FEATURE_TEXT_1": "基础版适合三台设备以内、每月百GB流量，旗舰版提供三百GB与五台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑可按客户端文档导入订阅，路由器支持需自行核对固件。",
+          "AI_FEATURE_TEXT_3": "按月或按年付费可选，年付价格更划算，团队版支持二十台设备与定制路由。",
+          "AI_FEATURE_TITLE_1": "按套餐匹配需求",
+          "AI_FEATURE_TITLE_2": "多设备订阅配置",
+          "AI_FEATURE_TITLE_3": "灵活付费周期",
+          "AI_GUIDE_INTRO": "三步完成从选择到上手的流程。",
+          "AI_GUIDE_TITLE": "云朵使用步骤",
+          "AI_HERO_INTRO": "云朵提供多种流量套餐，覆盖手机、电脑与路由器使用场景，可按设备数量与预算选择合适方案。",
+          "AI_HERO_SUBTITLE": "云朵全球加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "每月百GB起流量套餐可选",
+          "AI_HIGHLIGHT_2": "支持三至二十台设备在线",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_PLANS_INTRO": "基础版每月15元、旗舰版35元、团队版85元，按年付分别仅需150元、350元和850元。",
+          "AI_PLANS_TITLE": "云朵套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，对比基础版、旗舰版和团队版的功能差异。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与客户端，确认系统版本满足订阅配置要求。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅链接，完成节点选择并开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "云朵全球加速",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。同一时间在线的设备数量不能超过所选套餐上限，切换设备时退出旧设备连接即可。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。日常浏览和视频观看建议按每人每月 50GB 至 100GB 估算，按此选择套餐档位。",
+          "AI_FAQ_ANSWER_3": "Clash 的使用节奏是导入订阅、选择节点、按需切换，适合桌面端长期保持规则分流。Shadowrocket 和 Surge 在移动端配置更直观，V2rayN 适合 Windows 环境。",
+          "AI_FAQ_ANSWER_4": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。流量需求稳定、设备数量不常变动时，直接选择年付可以减少续费操作。",
+          "AI_FAQ_ANSWER_5": "在客户端中删除旧订阅再重新导入新的订阅地址，节点和流量信息会同步更新。如果仍显示旧节点，检查是否开启了多个配置文件并切换到正确的那个。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐续费。",
+          "AI_FAQ_QUESTION_1": "云朵订阅支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量有什么区别？",
+          "AI_FAQ_QUESTION_3": "Clash 和 Shadowrocket 分别适合什么场景？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更合适？",
+          "AI_FAQ_QUESTION_5": "更换设备后订阅需要重新配置吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zmxnb.cn",
+    "host": "zmxnb.cn"
+  },
+  "file_hashes": {
+    "index.html": "9449bcefec1eed4b84f66661241d03a6134a6cec2ab4307ba34230182c4a0fea",
+    "sitemap.xml": "0570e2067240cdcd9689eb8b6c998cf09dec2a6e134573a312867c83d1f39fb3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "308e60c5d0ddc678d3c8038722b4e1268a35f608a8564f28bbec74e240a0d90d",
+    "robots.txt": "c7ded7a1d88034753319096e1388b044213b56d66bdd4e6bb41ea0d75a17c92e",
+    "c4807f1c1f43e3273d19c2a94b7b2241.txt": "be8c071a7fa5f5191e8f080819f50d6447f7d602ce19166ec251db7b62ff8235"
+  },
+  "revision": "02b452b539cf9d5053fa7a707e2f44bde6deaad75921afa5bb1581185b038561"
+}
